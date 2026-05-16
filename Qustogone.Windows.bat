@@ -2,7 +2,7 @@
 chcp 65001 >nul
 title Qustodio Tool Menu
 color 0A
- 
+
 :: =========================
 :: ADMIN CHECK
 :: =========================
