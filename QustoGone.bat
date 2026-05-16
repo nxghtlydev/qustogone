@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title ADB Hacker Tool Menu
+title ADB Hacker Tool Menu 
 
 :menu
 cls
